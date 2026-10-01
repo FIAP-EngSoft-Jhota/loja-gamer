@@ -9,19 +9,19 @@ const Header = () => {
           <ul className="flex list-none items-center gap-8">
             <li>
               <Link to="/" className="text-white text-lg no-underline 
-              hover:text-[#95ff00] hover:uppercase transition-all">Home</Link>
+              hover:text-[#006eff] hover:uppercase transition-all">Home</Link>
             </li>
             <li>
             <Link to="/jogos" className="text-white text-lg no-underline 
-              hover:text-[#95ff00] hover:uppercase transition-all">Jogos</Link>
+              hover:text-[#006eff] hover:uppercase transition-all">Jogos</Link>
             </li>
             <li>
             <Link to="/contato" className="text-white text-lg no-underline 
-              hover:text-[#95ff00] hover:uppercase transition-all">Contato</Link>
+              hover:text-[#006eff] hover:uppercase transition-all">Contato</Link>
             </li>
             <li>
             <Link to="/login" className="text-white text-lg no-underline 
-              hover:text-[#95ff00] hover:uppercase transition-all">Login</Link>
+              hover:text-[#006eff] hover:uppercase transition-all">Login</Link>
             </li>
           </ul>
         </nav>
